@@ -9,4 +9,3 @@
 7. **Policy (π):** A strategy used by the agent to determine its actions.
 8. **Value Function:** A prediction of the future rewards that the agent can expect to accumulate from a particular state onward.
 9. **Model**: A representation of how the environment behaves.
-10.
